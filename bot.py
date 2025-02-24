@@ -14,8 +14,8 @@ from lotin_kiril import transliter
 
 
 
-TOKEN = "7240197187:AAH1gA7PnBDlmnE7MeVVV53guNv-mMtRMWk"
-ADMIN_ID = 7478200510
+TOKEN = ""
+ADMIN_ID = ""
 
 bot = Bot(TOKEN)
 dp = Dispatcher()
